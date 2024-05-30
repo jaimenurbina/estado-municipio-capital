@@ -1,0 +1,360 @@
+Amazonas/Alto Orinoco/La Esmeralda
+Amazonas/Atabapo/San Fernando de Atabapo
+Amazonas/Atures/Puerto Ayacucho
+Amazonas/Autana/Isla Ratón
+Amazonas/Manapiare/San Juan de Manapiare
+Amazonas/Maroa/Maroa
+Amazonas/Río Negro/San Carlos de Río Negro
+Anzoátegui/Anaco/Anaco
+Anzoátegui/Aragua/Aragua de Barcelona
+Anzoátegui/Bolívar/Barcelona
+Anzoátegui/Bruzual/Clarines
+Anzoátegui/Carvajal/Valle de Guanape
+Anzoátegui/Cajigal/Onoto
+Anzoátegui/Diego Bautista Urbaneja/Lechería
+Anzoátegui/Freites/Cantaura
+Anzoátegui/Guanta/Guanta
+Anzoátegui/Guanipa/San José de Guanipa
+Anzoátegui/Independencia/Ciudad Orinoco
+Anzoátegui/Libertad/San Mateo
+Anzoátegui/McGregor/El Chaparro
+Anzoátegui/Miranda/Pariaguán
+Anzoátegui/Monagas/Mapire
+Anzoátegui/Peñalver/Puerto Píritu
+Anzoátegui/Píritu/Píritu
+Anzoátegui/San Juan de Capistrano/Boca de Uchire
+Anzoátegui/Santa Ana/Santa Ana
+Anzoátegui/Simón Rodríguez/El Tigre
+Anzoátegui/Sotillo/Puerto La Cruz
+Apure/Achaguas/Achaguas
+Apure/Biruaca/Biruaca
+Apure/Camejo/San Juan de Payara
+Apure/Muñoz/Bruzual
+Apure/Páez/Guasdualito
+Apure/Rómulo Gallegos/Elorza
+Apure/San Fernando/San Fernando de Apure
+Aragua/Bolívar/San Mateo
+Aragua/Camatagua/Camatagua
+Aragua/Francisco Linares Alcántara/Santa Rita
+Aragua/Girardot/Maracay
+Aragua/José Ángel Lamas/Santa Cruz
+Aragua/José Félix Ribas/La Victoria
+Aragua/José Rafael Revenga/El Consejo
+Aragua/Libertador/Palo Negro
+Aragua/Mario Briceño Iragorry/El Limón
+Aragua/Ocumare de la Costa de Oro/Ocumare de la Costa
+Aragua/San Casimiro/San Casimiro
+Aragua/San Sebastián/San Sebastián
+Aragua/Santiago Mariño/Turmero
+Aragua/Santos Michelena/Las Tejerías
+Aragua/Sucre/Cagua
+Aragua/Tovar/Colonia Tovar
+Aragua/Urdaneta/Barbacoas
+Aragua/Zamora/Villa de Cura
+Barinas/Arismendi/Arismendi
+Barinas/Barinas/Barinas
+Barinas/Blanco/El Cantón
+Barinas/Bolívar/Barinitas
+Barinas/Cruz Paredes/Barrancas
+Barinas/Obispos/Obispos
+Barinas/Pedraza/Ciudad Bolivia
+Barinas/Rojas/Libertad
+Barinas/Sosa/Ciudad de Nutrias
+Barinas/Sucre/Socopó
+Barinas/Torrealba/Sabaneta
+Barinas/Zamora/Santa Bárbara
+Barinas/Páez/San Rafael de Canaguá
+Bolívar/Angostura/Ciudad Piar
+Bolívar/Caroní/Ciudad Guayana
+Bolívar/Cedeño/Caicara del Orinoco
+Bolívar/Chien/El Palmar
+Bolívar/El Callao/El Callao
+Bolívar/Gran Sabana/Santa Elena de Uairén
+Bolívar/Angostura del Orinoco/Ciudad Bolívar
+Bolívar/Piar/Upata
+Bolívar/Roscio/Guasipati
+Bolívar/Sifontes/Tumeremo
+Bolívar/Sucre/Maripa
+Carabobo/Bejuma/Bejuma
+Carabobo/Carlos Arvelo/Güigüe
+Carabobo/Diego Ibarra/Mariara
+Carabobo/Guacara/Guacara
+Carabobo/Juan José Mora/Morón
+Carabobo/Libertador/Tocuyito
+Carabobo/Los Guayos/Los Guayos
+Carabobo/Miranda/Miranda
+Carabobo/Montalbán/Montalbán
+Carabobo/Naguanagua/Naguanagua
+Carabobo/Puerto Cabello/Puerto Cabello
+Carabobo/San Diego/San Diego
+Carabobo/San Joaquín/San Joaquín
+Carabobo/Valencia/Valencia
+Cojedes/Anzoátegui/Cojedes
+Cojedes/Pao de San Juan Bautista/El Pao
+Cojedes/Tinaquillo/Tinaquillo
+Cojedes/Girardot/El Baúl
+Cojedes/Lima Blanco/Macapo
+Cojedes/Ricaurte/Libertad
+Cojedes/Rómulo Gallegos/Las Vegas
+Cojedes/San Carlos/San Carlos
+Cojedes/Tinaco/Tinaco
+Distrito Capital/Gran Caracas/Parroquia 23 de Enero
+Distrito Capital/Gran Caracas/Parroquia Altagracia
+Distrito Capital/Gran Caracas/Parroquia Antímano
+Distrito Capital/Gran Caracas/Parroquia Caricuao
+Distrito Capital/Gran Caracas/Parroquia Catedral
+Distrito Capital/Gran Caracas/Parroquia Coche
+Distrito Capital/Gran Caracas/Parroquia El Junquito
+Distrito Capital/Gran Caracas/Parroquia El Paraíso
+Distrito Capital/Gran Caracas/Parroquia El Recreo
+Distrito Capital/Gran Caracas/Parroquia El Valle
+Distrito Capital/Gran Caracas/Parroquia Candelaria
+Distrito Capital/Gran Caracas/Parroquia La Pastora
+Distrito Capital/Gran Caracas/Parroquia La Vega
+Distrito Capital/Gran Caracas/Parroquia Macarao
+Distrito Capital/Gran Caracas/Parroquia San Agustín
+Distrito Capital/Gran Caracas/Parroquia San Bernardino
+Distrito Capital/Gran Caracas/Parroquia San José
+Distrito Capital/Gran Caracas/Parroquia San Juan
+Distrito Capital/Gran Caracas/Parroquia San Pedro
+Distrito Capital/Gran Caracas/Parroquia Santa Rosalía
+Distrito Capital/Gran Caracas/Parroquia Santa Teresa
+Distrito Capital/Gran Caracas/Parroquia Sucre
+Delta Amacuro/Antonio Díaz/Curiapo
+Delta Amacuro/Casacoima/Sierra Imataca
+Delta Amacuro/Pedernales/Pedernales
+Delta Amacuro/Tucupita/Tucupita
+Falcón/Acosta/San Juan de los Cayos
+Falcón/Bolívar/San Luis
+Falcón/Buchivacoa/Capatárida
+Falcón/Carirubana/Punto Fijo
+Falcón/Colina/La Vela de Coro
+Falcón/Dabajuro/Dabajuro
+Falcón/Democracia/Pedregal
+Falcón/Falcón/Pueblo Nuevo
+Falcón/Federación/Churuguara
+Falcón/Iturriza/Chichiriviche
+Falcón/Jacura/Jacura
+Falcón/Los Taques/Santa Cruz de Los Taques
+Falcón/Mauroa/Mene de Mauroa
+Falcón/Manaure/Yaracal
+Falcón/Miranda/Santa Ana de Coro
+Falcón/Palmasola/Palmasola
+Falcón/Petit/Cabure
+Falcón/Píritu/Píritu
+Falcón/San Francisco/Mirimire
+Falcón/Silva/Tucacas
+Falcón/Sucre/La Cruz de Taratara
+Falcón/Tocópero/Tocópero
+Falcón/Unión/Santa Cruz de Bucaral
+Falcón/Urumaco/Urumaco
+Falcón/Zamora/Puerto Cumarebo
+Guárico/Juan José Rondón/Las Mercedes
+Guárico/José Félix Ribas/Tucupido
+Guárico/José Tadeo Monagas/Altagracia de Orituco
+Guárico/Juan Germán Roscio/San Juan de los Morros
+Guárico/Julián Mellado/El Sombrero
+Guárico/Ortiz/Ortiz
+Guárico/San Gerónimo de Guayabal/Guayabal
+Guárico/San José de Guaribe/San José de Guaribe
+Guárico/Santa María de Ipire/Santa María de Ipire
+Guárico/Zaraza/Zaraza
+Lara/Andrés Eloy Blanco/Sanare
+Lara/Crespo/Duaca
+Lara/Iribarren/Barquisimeto
+Lara/Jiménez/Quíbor
+Lara/Morán/El Tocuyo
+Lara/Palavecino/Cabudare
+Lara/Simón Planas/Sarare
+Lara/Torres/Carora
+Lara/Urdaneta/Siquisique
+Mérida/Santos Marquina/Tabay
+Mérida/Sucre/Lagunillas
+Mérida/Cardenal Quintero/Santo Domingo
+Mérida/Miranda/Timotes
+Mérida/Pueblo Llano/Pueblo Llano
+Mérida/Rangel/Mucuchíes
+Mérida/Alberto Adriani/El Vigía
+Mérida/Obispo Ramos de Lora/Santa Elena de Arenales
+Mérida/Tulio Febres Cordero/Nueva Bolivia
+Mérida/Andrés Bello/La Azulita
+Mérida/Caracciolo Parra Olmedo/Tucani
+Mérida/Julio César Salas/Arapuey
+Mérida/Justo Briceño/Torondoy
+Mérida/Antonio Pinto Salinas/Santa Cruz de Mora
+Mérida/Rivas Dávila/Bailadores
+Mérida/Guaraque/Guaraque
+Mérida/Tovar/Tovar
+Mérida/Zea/Zea
+Mérida/Aricagua/Aricagua
+Mérida/Arzobispo Chacón/Canagua
+Mérida/Padre Noguera/Santa María de Caparo
+Miranda/Acevedo/Caucagua
+Miranda/Andrés Bello/Barlovento
+Miranda/Baruta/Baruta
+Miranda/Brión/Higuerote
+Miranda/Bolívar/Yare
+Miranda/Buroz/Mamporal
+Miranda/Carrizal/Carrizal
+Miranda/Chacao/Chacao
+Miranda/Cristóbal Rojas/Charallave
+Miranda/El Hatillo/El Hatillo
+Miranda/Guaicaipuro/Los Teques
+Miranda/Gual/Cúpira
+Miranda/Independencia/Santa Teresa del Tuy
+Miranda/Lander/Ocumare del Tuy
+Miranda/Los Salias/San Antonio de Los Altos
+Miranda/Páez/Río Chico
+Miranda/Paz Castillo/Santa Lucía del Tuy
+Miranda/Plaza/Guarenas
+Miranda/Sucre/Petare
+Miranda/Urdaneta/Cúa
+Miranda/Zamora/Guatire
+Monagas/Acosta/San Antonio de Maturín
+Monagas/Aguasay/Aguasay
+Monagas/Bolívar/Caripito
+Monagas/Caripe/Caripe
+Monagas/Cedeño/Caicara de Maturín
+Monagas/Libertador/Temblador
+Monagas/Maturín/Maturín
+Monagas/Piar/Aragua de Maturín
+Monagas/Punceres/Quiriquire
+Monagas/Santa Bárbara/Santa Bárbara
+Monagas/Sotillo/Barrancas del Orinoco
+Monagas/Uracoa/Uracoa
+Monagas/Zamora/Punta de Mata
+Nueva Esparta/Antolín del Campo/La Plaza de Paraguachí
+Nueva Esparta/Arismendi/La Asunción
+Nueva Esparta/Antonio Díaz/San Juan
+Nueva Esparta/García/El Valle
+Nueva Esparta/Gómez/Santa Ana
+Nueva Esparta/Maneiro/Pampatar
+Nueva Esparta/Marcano/Juan Griego
+Nueva Esparta/Mariño/Porlamar
+Nueva Esparta/Macanao/Boca de Río
+Nueva Esparta/Tubores/Punta de Piedras
+Nueva Esparta/Villalba/Coche
+Portuguesa/Agua Blanca/Agua Blanca
+Portuguesa/Araure/Araure
+Portuguesa/Esteller/Píritu
+Portuguesa/Guanare/Guanare
+Portuguesa/Guanarito/Guanarito
+Portuguesa/José Vicente de Unda/Paraíso de Chabasquén
+Portuguesa/Ospino/Ospino
+Portuguesa/Páez/Acarigua
+Portuguesa/Papelón/Papelón
+Portuguesa/San Genaro de Boconoíto/Boconoíto
+Portuguesa/San Rafael de Onoto/San Rafael de Onoto
+Portuguesa/Santa Rosalía/El Playón
+Portuguesa/Sucre/Biscucuy
+Portuguesa/Turén/Villa Bruzual
+Sucre/Andrés Eloy Blanco/Casanay
+Sucre/Andrés Mata/San José de Areocuar
+Sucre/Arismendi/Río Caribe
+Sucre/Benítez/El Pilar
+Sucre/Bermúdez/Carúpano
+Sucre/Bolívar/Marigüitar
+Sucre/Cajigal/Yaguaraparo
+Sucre/Cruz Salmerón Acosta/Araya
+Sucre/Libertador/Tunapuy
+Sucre/Mariño/Irapa
+Sucre/Mejía/San Antonio del Golfo
+Sucre/Montes/Cumanacoa
+Sucre/Ribero/Cariaco
+Sucre/Sucre/Cumaná
+Sucre/Valdez/Güiria
+Táchira/Andrés Bello/Cordero
+Táchira/Antonio Rómulo Costa/Las Mesas
+Táchira/Ayacucho/San Juan de Colón
+Táchira/Bolívar/San Antonio
+Táchira/Cárdenas/Táriba
+Táchira/Córdoba/Santa Ana
+Táchira/Fernández Feo/El Piñal
+Táchira/Francisco de Miranda/San José de Bolívar
+Táchira/García de Hevia/La Fría
+Táchira/Guásimos/Palmira
+Táchira/Independencia/Capacho Nuevo
+Táchira/Jáuregui/La Grita
+Táchira/José María Vargas/El Cobre
+Táchira/Junín/Rubio
+Táchira/Libertad/Capacho Viejo
+Táchira/Libertador/Abejales
+Táchira/Lobatera/Lobatera
+Táchira/Michelena/Michelena
+Táchira/Panamericano/Coloncito
+Táchira/Pedro María Ureña/Ureña
+Táchira/Rafael Urdaneta/Delicias
+Táchira/Samuel Darío Maldonado/La Tendida
+Táchira/San Cristóbal/San Cristóbal
+Táchira/San Judas Tadeo/Umuquena
+Táchira/Seboruco/Seboruco
+Táchira/Simón Rodríguez/San Simón
+Táchira/Sucre/Queniquea
+Táchira/Torbes/San Josecito
+Táchira/Uribante/Pregonero
+Trujillo/Andrés Bello/Santa Isabel
+Trujillo/Boconó/Boconó
+Trujillo/Bolívar/Sabana Grande
+Trujillo/Candelaria/Chejendé
+Trujillo/Carache/Carache
+Trujillo/Carvajal/Carvajal
+Trujillo/Campo Elías/Campo Elías
+Trujillo/Escuque/Escuque
+Trujillo/La Ceiba/Santa Apolonia
+Trujillo/Márquez Cañizales/El Paradero
+Trujillo/Miranda/El Dividive
+Trujillo/Monte Carmelo/Monte Carmelo
+Trujillo/Motatán/Motatán
+Trujillo/Pampán/Pampán
+Trujillo/Pampanito/Pampanito
+Trujillo/Rangel/Betijoque
+Trujillo/Sucre/Sabana de Mendoza
+Trujillo/Trujillo/Trujillo
+Trujillo/Urdaneta/La Quebrada
+Trujillo/Valera/Valera
+La Guaira/Vargas/Caraballeda
+La Guaira/Vargas/Carayaca
+La Guaira/Vargas/Carlos Soublette
+La Guaira/Vargas/Caruao
+La Guaira/Vargas/Catia La Mar
+La Guaira/Vargas/El Junko
+La Guaira/Vargas/La Guaira
+La Guaira/Vargas/Macuto
+La Guaira/Vargas/Maiquetía
+La Guaira/Vargas/Naiguatá
+La Guaira/Vargas/Urimare
+Yaracuy/Bastidas/San Pablo
+Yaracuy/Bolívar/Aroa
+Yaracuy/Bruzual/Chivacoa
+Yaracuy/Cocorote/Cocorote
+Yaracuy/Independencia/Independencia
+Yaracuy/La Trinidad/Boraure
+Yaracuy/Monge/Yumare
+Yaracuy/Nirgua/Nirgua
+Yaracuy/Páez/Sabana de Parra
+Yaracuy/Peña/Yaritagua
+Yaracuy/San Felipe/San Felipe
+Yaracuy/Sucre/Guama
+Yaracuy/Urachiche/Urachiche
+Yaracuy/Veroes/Farriar
+Zulia/Almirante Padilla/El Toro
+Zulia/Baralt/San Timoteo
+Zulia/Cabimas/Cabimas
+Zulia/Catatumbo/Encontrados
+Zulia/Colón/San Carlos del Zulia
+Zulia/Francisco Javier Pulgar/Pueblo Nuevo-El Chivo
+Zulia/Jesús Enrique Lossada/La Concepción
+Zulia/Jesús María Semprúm/Casigua-El Cubo
+Zulia/La Cañada de Urdaneta/Concepción
+Zulia/Lagunillas/Ciudad Ojeda
+Zulia/Machiques de Perijá/Machiques
+Zulia/Mara/San Rafael de El Moján
+Zulia/Maracaibo/Maracaibo
+Zulia/Miranda/Los Puertos de Altagracia
+Zulia/Guajira/Sinamaica
+Zulia/Rosario de Perijá/Villa del Rosario
+Zulia/San Francisco/San Francisco
+Zulia/Santa Rita/Santa Rita
+Zulia/Simón Bolívar/Tía Juana
+Zulia/Sucre/Bobures
+Zulia/Valmore Rodríguez/Bachaquero
